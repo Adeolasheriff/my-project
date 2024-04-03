@@ -1,8 +1,22 @@
 .nav-item:hover{
-    border-bottom: 2px solid pink;
+    border-bottom: 2px solid rgba(255, 0, 0, 0.772);
 }
 
 .b{
-    border-bottom: 2px solid pink;
+    border-bottom: 2px solid rgba(255, 0, 0, 0.785);
 }
 
+.navbar
+{
+    box-shadow: 0 10px 7px rgba(0, 0, 0, 0.569);
+}
+
+
+.im:hover{
+  transform: scale(1.1);
+}
+
+.card-img-top:hover {
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
